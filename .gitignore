@@ -10,8 +10,15 @@
 # Visual project files, since this repository will only have source code project files will be ignored
 *.csproj
 
+# Visual Studio Code Lunch and task files
+launch.json
+tasks.json
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+
+# Java compiled file extension
+*.class
 
 # Build results
 [Dd]ebug/
